@@ -1,0 +1,7 @@
+id = "jetbrains-dark-anthracite"
+name = "JetBrains Dark (Anthracite)"
+version = "1.0.1"
+schema_version = 1
+authors = ["kirubiisfyne, @kirubiisfyne"]
+description = "JetBrains Dark with Anthracite on it's veins. forked from Artem Evsevev <artem@artevs.dev> JetBrains theme."
+repository = "https://github.com/your-name/my-zed-extension"
